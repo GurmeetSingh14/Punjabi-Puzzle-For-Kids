@@ -11,9 +11,15 @@ Drag a letter to the Puzzle piece. If the correct letter is dragged onto Puzzle 
 ## App Screenshots
 Learn Punjabi Android app is an initiative to preserve Punjabi language and its rich culture by providing a handy resource to its learners.
 
-![Learn Punjabi Home](https://github.com/GurmeetSingh14/Punjabi-Puzzle-For-Kids/blob/master/Images/splash_screen.png "Learn Punjabi Home") ![Learn Punjabi Home](https://github.com/GurmeetSingh14/Punjabi-Puzzle-For-Kids/blob/master/Images/home_screen1 "Learn Punjabi Home")
+![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Punjabi-Puzzle-For-Kids/master/Images/splash_screen.png "Learn Punjabi Home") 
+![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Punjabi-Puzzle-For-Kids/master/Images/home_screen1 "Learn Punjabi Home")
 
-![Learn Punjabi Home](https://github.com/GurmeetSingh14/Punjabi-Puzzle-For-Kids/blob/master/Images/level1_screen1.png "Learn Punjabi Home") ![Learn Punjabi Home](https://github.com/GurmeetSingh14/Punjabi-Puzzle-For-Kids/blob/master/Images/level1_screen2.png "Learn Punjabi Home")
+![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Punjabi-Puzzle-For-Kids/master/Images/level1_screen1.png "Learn Punjabi Home") 
+![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Punjabi-Puzzle-For-Kids/master/Images/leve1_screen2.png "Learn Punjabi Home")
+
+![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Punjabi-Puzzle-For-Kids/master/Images/level2_screen3.png "Learn Punjabi Home")
+
+![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Punjabi-Puzzle-For-Kids/master/Images/level3_screen1.png "Learn Punjabi Home")
 
 
 ## Link to Google Play Store: [Learn Punjabi Puzzle App](https://play.google.com/store/apps/details?id=com.gswebcrunch.learnpunjabipuzzle)
