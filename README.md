@@ -1,6 +1,8 @@
 # Learn Punjabi Puzzle App For Kids
 
-<img src="https://github.com/GurmeetSingh14/Punjabi-Puzzle-For-Kids/blob/master/Images/icon.png" height=100 width =100/>  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/GurmeetSingh14/Punjabi-Puzzle-For-Kids/master/Images/icon.png" width="100" height="100"/>
+</p>
 
 [Punjabi](https://en.wikipedia.org/wiki/Punjabi) is the 10th most widely spoken language in the world with over 100 million native speakers across the globe. Punjabi is 4th most spoken language in UK and 3rd most spoken language in Canada. 
 
@@ -12,7 +14,7 @@ Drag a letter to the Puzzle piece. If the correct letter is dragged onto Puzzle 
 Learn Punjabi Android app is an initiative to preserve Punjabi language and its rich culture by providing a handy resource to its learners.
 
 ![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Punjabi-Puzzle-For-Kids/master/Images/splash_screen.png "Learn Punjabi Home") 
-![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Punjabi-Puzzle-For-Kids/master/Images/home_screen1 "Learn Punjabi Home")
+![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Punjabi-Puzzle-For-Kids/master/Images/home_screen1.png "Learn Punjabi Home")
 
 ![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Punjabi-Puzzle-For-Kids/master/Images/level1_screen1.png "Learn Punjabi Home") 
 ![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Punjabi-Puzzle-For-Kids/master/Images/leve1_screen2.png "Learn Punjabi Home")
